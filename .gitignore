@@ -1,0 +1,7 @@
+/target/
+.settings/
+Result
+TestNGReport
+test-output
+.project
+.classpath
